@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>{title}</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link href="stylesheets/reset.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <section>
+            <header>
+                <h1>nodejs, dust-linked-in and backbone</h1>
+            </header>            
+        </section>
+    </body>
+</html>
